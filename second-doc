@@ -1,0 +1,5 @@
+#includ<stdio.h>
+int main()
+{
+printf("as we see");
+}
