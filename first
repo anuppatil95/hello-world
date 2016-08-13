@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+printf("hii this my first github program which is written in C language:");
+getch();
+}
